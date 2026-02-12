@@ -1,4 +1,4 @@
-# Password Strength Checker & Security Tools
+Security Tools
 
 A **learning project** for practicing **cybersecurity with Python**. This repository holds small, documented scripts used to build foundations in security tooling: command-line interfaces, log analysis, safe use of system commands, and HTTP clients.
 
